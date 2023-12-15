@@ -1,0 +1,7 @@
+# Simple Plugin Hider | Configuration
+
+# The message that appears when you attempt to run a blocked command. USE '&' instead of '§' (For help with color codes check out https://minecraft.tools/en/color-code.php)
+blockMessage: "&cYou are not allowed to use this command!"
+
+# Decides if tab completion should be blocked for the blocked commands (Stops people viewing tab completion to see what plugins you have)
+blockTabCompletion: true
