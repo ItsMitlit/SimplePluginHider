@@ -5,7 +5,7 @@
 
 ## Note
 
-As of now only **Beta & Alpha** versions will be available on the Github page. This means that if you wish to download the latest release you must do so from our **[Modrinth](https://modrinth.com/plugin/anti-admin) or [Spigot](https://www.spigotmc.org/resources/anti-admin.109941/)**
+As of now only **Beta & Alpha** versions will be available on the Github page. This means that if you wish to download the latest release you must do so from our **[Modrinth](https://modrinth.com/plugin/simple-plugin-hider) or [Spigot](https://www.spigotmc.org/resources/simple-plugin-hider.113969/)**
 ## Installation
 
 Install Simple Plugin Hider on your Minecraft Server
