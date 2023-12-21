@@ -5,7 +5,7 @@
 
 ## Note
 
-As of now only **Beta & Alpha** versions will be available on the Github page. This means that if you wish to download the latest release you must do so from our **[Modrinth](https://modrinth.com/plugin/simple-plugin-hider) or [Spigot](https://www.spigotmc.org/resources/simple-plugin-hider.113969/)**
+If you want to support me and my projects please consider downloading this plugin from **[Modrinth](https://modrinth.com/plugin/simple-plugin-hider)** as I earn a small amount of money for downloads on that platform. Thanks in advance, Mitlit.
 ## Installation
 
 Install Simple Plugin Hider on your Minecraft Server
