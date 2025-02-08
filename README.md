@@ -5,7 +5,7 @@
 
 ## Note
 
-If you want to support me and my projects please consider downloading this plugin from **[Modrinth](https://modrinth.com/plugin/simple-plugin-hider)** as I earn a small amount of money for downloads on that platform. Thanks in advance, Mitlit.
+If you want to support it and my projects please consider downloading this plugin from **[Modrinth](https://modrinth.com/plugin/simple-plugin-hider)** as I earn a small amount of money for downloads on that platform. Thanks in advance, Mitlit.
 ## Installation
 
 Install Simple Plugin Hider on your Minecraft Server

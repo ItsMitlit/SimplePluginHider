@@ -1,5 +1,6 @@
-package me.mitlit.sph;
+package it.mitl.sph;
 
+import org.bstats.bukkit.Metrics;
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.event.Listener;
@@ -22,6 +23,11 @@ public final class SimplePluginHider extends JavaPlugin implements Listener {
         plugin = this;
         saveDefaultConfig();
         FileConfiguration config = getConfig();
+
+        // bStats
+        int pluginId = 24699;
+        Metrics metrics = new Metrics(this, pluginId);
+
 
     }
 

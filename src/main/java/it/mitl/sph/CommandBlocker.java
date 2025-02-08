@@ -1,4 +1,4 @@
-package me.mitlit.sph;
+package it.mitl.sph;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

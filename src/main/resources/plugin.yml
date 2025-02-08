@@ -1,5 +1,5 @@
 name: SimplePluginHider
 version: '${project.version}'
-main: me.mitlit.sph.SimplePluginHider
+main: it.mitl.sph.SimplePluginHider
 api-version: '1.13'
-authors: [mitlit]
+authors: [Mitlit]
